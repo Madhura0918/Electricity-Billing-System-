@@ -1,5 +1,5 @@
 
-# ⚡ Electricity Billing System
+# ⚡PowerPay - Electricity Billing System
 
 **A smart and simple software to automate meter readings, calculate bills, and support online payments.**
 
@@ -7,7 +7,7 @@
 
 ## 📌 Project Overview
 
-The **Electricity Billing System** is designed to computerize the billing process for electricity departments. It automates meter reading entries, calculates units consumed, generates accurate bills, and allows customers to view and pay bills online — saving time and reducing manual effort.
+The **PowerPay** is designed to computerize the billing process for electricity departments. It automates meter reading entries, calculates units consumed, generates accurate bills, and allows customers to view and pay bills online — saving time and reducing manual effort.
 
 ---
 
@@ -42,7 +42,7 @@ This project aims to:
 - **Java**
 - **MySQL**
 - **JDBC**
-- **Swing / Java GUI** (if used)
+- **Swing / Java GUI** 
 - **HTML/CSS** (if web interface included)
 
 ---
